@@ -2,8 +2,6 @@
  I'm  android developer for more than two years.
 </strong> 
  </br>
- </br>
- 
 You can download my app in PlayStore: <a href="https://play.google.com/store/apps/details?id=io.spooky.app" target="_blank">Zpooky</a>
 
  
