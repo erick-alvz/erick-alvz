@@ -1,6 +1,11 @@
 I'm  android developer for more than two years.
 
-You can download my app in PlayStore: <strong>Zpooky<strong>
+You can download my app in PlayStore: <strong>Zpooky</strong>
+ 
+<a href="https://play.google.com/store/apps/details?id=io.spooky.app" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="183">
+</a>
+
 
 
 ## Skills:
