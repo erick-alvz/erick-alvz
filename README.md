@@ -16,7 +16,7 @@ I'm  android developer for more than two years.
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Postgresql](https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
-
+[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white&labelColor=101010)]()
 </br>
 
 ## Contact me:
